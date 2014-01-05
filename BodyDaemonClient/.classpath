@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="/Library/Java/Extensions/xerces-2_7_1/xml-apis.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Library/Java/Extensions/xerces-2_7_1/xercesImpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Library/Java/Extensions/xerces-2_7_1/resolver.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Library/Java/Extensions/NetUtil/build/NetUtil.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
